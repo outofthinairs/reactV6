@@ -1,0 +1,20 @@
+.App{
+	color:#ffffff;
+	.Head{
+		height:100px;
+		background-color:#324157 ;
+	}
+	.Main{
+		display: flex;
+		.left{
+			width:10vw;
+			height:89vh;
+			background-color:#CCCCCC;
+		}
+		.content{
+			padding:24px;
+			color:#000;
+			width:90vw;
+		}
+	}
+}
